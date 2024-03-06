@@ -9,49 +9,49 @@ INSERT INTO Store (StoreName, Address, City, PostalCode, Country) VALUES ('Norwa
 INSERT INTO Store (StoreName, Address, City, PostalCode, Country) VALUES ('Norway Outdoors Kristiansand', 'Turistveien 56', 'Kristiansand', '4611', 'Norway');
 
 
-INSERT INTO Products (ProductName, Description, Price, Category) VALUES ('Solar Powered Lantern', 'Eco-friendly lantern with three brightness settings and up to 48 hours of light on a single charge.', 24.99, 'Lighting'); 1
+INSERT INTO Products (ProductName, Description, Price, Category) VALUES ('Solar Powered Lantern', 'Eco-friendly lantern with three brightness settings and up to 48 hours of light on a single charge.', 24.99, 'Lighting');
 
-INSERT INTO Products (ProductName, Description, Price, Category) VALUES ('Camping Stove', 'Compact and lightweight camping stove, easy to set up and operate, perfect for backpacking trips.', 44.99, 'Cooking Equipment'); 2
+INSERT INTO Products (ProductName, Description, Price, Category) VALUES ('Camping Stove', 'Compact and lightweight camping stove, easy to set up and operate, perfect for backpacking trips.', 44.99, 'Cooking Equipment');
 
-INSERT INTO Products (ProductName, Description, Price, Category) VALUES ('Climbing Harness', 'Comfortable and adjustable climbing harness, suitable for all levels of rock climbing and mountaineering.', 59.99, 'Climbing Gear'); 3 
+INSERT INTO Products (ProductName, Description, Price, Category) VALUES ('Climbing Harness', 'Comfortable and adjustable climbing harness, suitable for all levels of rock climbing and mountaineering.', 59.99, 'Climbing Gear');
 
-INSERT INTO Products (ProductName, Description, Price, Category) VALUES ('GPS Handheld Navigator', 'Rugged, waterproof GPS navigator with preloaded maps and a long-lasting battery for outdoor adventures.', 299.99, 'Technology'); 4
+INSERT INTO Products (ProductName, Description, Price, Category) VALUES ('GPS Handheld Navigator', 'Rugged, waterproof GPS navigator with preloaded maps and a long-lasting battery for outdoor adventures.', 299.99, 'Technology');
 
-INSERT INTO Products (ProductName, Description, Price, Category) VALUES ('Thermal Insulated Jacket', 'Windproof and waterproof jacket with thermal insulation to keep you warm in cold conditions.', 119.99, 'Apparel'); 5
+INSERT INTO Products (ProductName, Description, Price, Category) VALUES ('Thermal Insulated Jacket', 'Windproof and waterproof jacket with thermal insulation to keep you warm in cold conditions.', 119.99, 'Apparel');
 
-INSERT INTO Products (ProductName, Description, Price, Category) VALUES ('Quick-Dry Hiking Pants', 'Lightweight, breathable, and quick-drying pants, ideal for hiking and outdoor activities.', 49.99, 'Apparel'); 6
+INSERT INTO Products (ProductName, Description, Price, Category) VALUES ('Quick-Dry Hiking Pants', 'Lightweight, breathable, and quick-drying pants, ideal for hiking and outdoor activities.', 49.99, 'Apparel');
 
-INSERT INTO Products (ProductName, Description, Price, Category) VALUES ('Ultralight Sleeping Pad', 'Ultralight, compact sleeping pad with innovative air cell design for optimal comfort and support.', 79.99, 'Sleeping Gear'); 7
+INSERT INTO Products (ProductName, Description, Price, Category) VALUES ('Ultralight Sleeping Pad', 'Ultralight, compact sleeping pad with innovative air cell design for optimal comfort and support.', 79.99, 'Sleeping Gear');
 
-INSERT INTO Products (ProductName, Description, Price, Category) VALUES ('Hiking Poles', 'Adjustable, lightweight aluminum hiking poles with ergonomic grips and shock absorption.', 59.99, 'Hiking Accessories'); 8
+INSERT INTO Products (ProductName, Description, Price, Category) VALUES ('Hiking Poles', 'Adjustable, lightweight aluminum hiking poles with ergonomic grips and shock absorption.', 59.99, 'Hiking Accessories');
 
-INSERT INTO Products (ProductName, Description, Price, Category) VALUES ('Waterproof Dry Bag', 'Durable, waterproof dry bag to keep your gear safe and dry in any weather conditions, 20L capacity.', 29.99, 'Accessories'); 9
+INSERT INTO Products (ProductName, Description, Price, Category) VALUES ('Waterproof Dry Bag', 'Durable, waterproof dry bag to keep your gear safe and dry in any weather conditions, 20L capacity.', 29.99, 'Accessories');
 
-INSERT INTO Products (ProductName, Description, Price, Category) VALUES ('LED Headlamp', 'High-power LED headlamp with multiple modes, rechargeable battery, and water resistance for night adventures.', 35.99, 'Lighting'); 10
+INSERT INTO Products (ProductName, Description, Price, Category) VALUES ('LED Headlamp', 'High-power LED headlamp with multiple modes, rechargeable battery, and water resistance for night adventures.', 35.99, 'Lighting');
 
-INSERT INTO Products (ProductName, Description, Price, Category) VALUES ('Expedition Tent', 'A durable, four-season tent for two people, designed for harsh weather conditions.', 499.99, 'Tents'); 11
+INSERT INTO Products (ProductName, Description, Price, Category) VALUES ('Expedition Tent', 'A durable, four-season tent for two people, designed for harsh weather conditions.', 499.99, 'Tents');
 
-INSERT INTO Products (ProductName, Description, Price, Category) VALUES ('Trail Hiking Boots', 'Waterproof, breathable hiking boots with superior traction for all terrains.', 129.99, 'Footwear'); 12
+INSERT INTO Products (ProductName, Description, Price, Category) VALUES ('Trail Hiking Boots', 'Waterproof, breathable hiking boots with superior traction for all terrains.', 129.99, 'Footwear');
 
-INSERT INTO Products (ProductName, Description, Price, Category) VALUES ('Multi-Day Backpack', '65L backpack with adjustable harness system, suitable for multi-day hikes.', 199.99, 'Backpacks'); 13
+INSERT INTO Products (ProductName, Description, Price, Category) VALUES ('Multi-Day Backpack', '65L backpack with adjustable harness system, suitable for multi-day hikes.', 199.99, 'Backpacks');
 
-INSERT INTO Products (ProductName, Description, Price, Category) VALUES ('Portable Water Filter', 'Compact, lightweight water filter capable of removing 99.999% of waterborne bacteria.', 39.99, 'Accessories'); 14
+INSERT INTO Products (ProductName, Description, Price, Category) VALUES ('Portable Water Filter', 'Compact, lightweight water filter capable of removing 99.999% of waterborne bacteria.', 39.99, 'Accessories');
 
-INSERT INTO Products (ProductName, Description, Price, Category) VALUES ('Insulated Sleeping Bag', 'Lightweight sleeping bag with thermal insulation, rated for temperatures down to -10°C.', 149.99, 'Sleeping Gear'); 15
+INSERT INTO Products (ProductName, Description, Price, Category) VALUES ('Insulated Sleeping Bag', 'Lightweight sleeping bag with thermal insulation, rated for temperatures down to -10°C.', 149.99, 'Sleeping Gear');
 
-INSERT INTO Products (ProductName, Description, Price, Category) VALUES ('High-Power Headlamp', 'Rechargeable headlamp with multiple modes, including a high-power beam for nighttime outdoor activities.', 34.99, 'Lighting'); 16
+INSERT INTO Products (ProductName, Description, Price, Category) VALUES ('High-Power Headlamp', 'Rechargeable headlamp with multiple modes, including a high-power beam for nighttime outdoor activities.', 34.99, 'Lighting');
 
-INSERT INTO Products (ProductName, Description, Price, Category) VALUES ('Waterproof Hiking Gloves', 'Durable gloves offering warmth and waterproof protection for hiking in cold and wet conditions.', 29.99, 'Accessories'); 17
+INSERT INTO Products (ProductName, Description, Price, Category) VALUES ('Waterproof Hiking Gloves', 'Durable gloves offering warmth and waterproof protection for hiking in cold and wet conditions.', 29.99, 'Accessories');
 
-INSERT INTO Products (ProductName, Description, Price, Category) VALUES ('Breathable Rain Jacket', 'Lightweight and breathable rain jacket with waterproof technology, keeping you dry in wet conditions.', 99.99, 'Apparel'); 18
+INSERT INTO Products (ProductName, Description, Price, Category) VALUES ('Breathable Rain Jacket', 'Lightweight and breathable rain jacket with waterproof technology, keeping you dry in wet conditions.', 99.99, 'Apparel');
 
-INSERT INTO Products (ProductName, Description, Price, Category) VALUES ('Merino Wool Hiking Socks', 'High-quality merino wool socks providing comfort, warmth, and moisture-wicking properties for hiking.', 19.99, 'Apparel'); 19
+INSERT INTO Products (ProductName, Description, Price, Category) VALUES ('Merino Wool Hiking Socks', 'High-quality merino wool socks providing comfort, warmth, and moisture-wicking properties for hiking.', 19.99, 'Apparel');
 
-INSERT INTO Products (ProductName, Description, Price, Category) VALUES ('UV Protection Sun Hat', 'Wide-brimmed sun hat offering UPF 50+ protection against harmful UV rays, perfect for sunny hikes.', 24.99, 'Apparel'); 20
+INSERT INTO Products (ProductName, Description, Price, Category) VALUES ('UV Protection Sun Hat', 'Wide-brimmed sun hat offering UPF 50+ protection against harmful UV rays, perfect for sunny hikes.', 24.99, 'Apparel');
 
-INSERT INTO Products (ProductName, Description, Price, Category) VALUES ('Performance Hiking Shirt', 'Quick-drying, moisture-wicking shirt designed for optimal comfort and performance on the trail.', 39.99, 'Apparel'); 21
+INSERT INTO Products (ProductName, Description, Price, Category) VALUES ('Performance Hiking Shirt', 'Quick-drying, moisture-wicking shirt designed for optimal comfort and performance on the trail.', 39.99, 'Apparel');
 
-INSERT INTO Products (ProductName, Description, Price, Category) VALUES ('Convertible Hiking Pants', 'Versatile hiking pants with zip-off legs to easily convert into shorts, ideal for changing weather conditions.', 59.99, 'Apparel'); 22
+INSERT INTO Products (ProductName, Description, Price, Category) VALUES ('Convertible Hiking Pants', 'Versatile hiking pants with zip-off legs to easily convert into shorts, ideal for changing weather conditions.', 59.99, 'Apparel');
 
 
 INSERT INTO Customers (FirstName, LastName, Email, Password, Address, City, PostalCode, Country) VALUES ('Erik', 'Hansen', 'erik.hansen@email.com', 'password123', 'Fjellveien 14', 'Oslo', '0376', 'Norway');
