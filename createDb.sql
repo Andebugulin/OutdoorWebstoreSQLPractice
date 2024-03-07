@@ -1,6 +1,6 @@
 CREATE DATABASE OutdoorStore;
 
-USE dbo.OutdoorStore;
+USE OutdoorStore;
 
 CREATE TABLE Store (
     StoreId INT IDENTITY(1,1) PRIMARY KEY,
