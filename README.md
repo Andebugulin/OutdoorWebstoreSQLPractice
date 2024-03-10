@@ -1,3 +1,6 @@
+
+# Note: you can execute everything at once, all queries are in [queries.sql](./Queries.sql) file
+
 ### 1) For each product, get the price doubled
 
 ```sql
