@@ -137,7 +137,7 @@ GROUP BY
     s.StoreId, s.StoreName; 
 ```
 
-### Get the full name of each employee working in the store with the highest total sales using the VIEW's created before
+### 15) Get the full name of each employee working in the store with the highest total sales using the VIEW's created before
 
 ```sql
 SELECT CONCAT(e.FirstName, ' ', e.LastName) AS EmployeeFullName
