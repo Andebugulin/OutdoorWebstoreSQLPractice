@@ -74,6 +74,8 @@ JOIN
 GROUP BY 
     e.EmployeeId, e.FirstName, e.LastName, e.StoreId;
 
+SELECT * FROM EmployeeOrderTotals;
+
 -- Create a view for the total sales made in each store, including the store name
 CREATE VIEW StoreSalesTotals AS
 SELECT 
@@ -92,6 +94,8 @@ JOIN
     Products p ON od.ProductId = p.ProductId
 GROUP BY 
     s.StoreId, s.StoreName;
+
+SELECT * FROM StoreSalesTotals;
 
 -- Get the full name of each employee working in the store with the highest total sales
 SELECT CONCAT(e.FirstName, ' ', e.LastName) AS EmployeeFullName
